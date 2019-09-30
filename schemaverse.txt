@@ -1,0 +1,2 @@
+SELECT username, balance, fuel_reserve FROM my_player;
+SELECT last_value FROM tic_seq;
